@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://pokemondb.net/pokedex/rayquaza"][IMG]https://img.pokemondb.net/sprites/black-white/anim/shiny/rayquaza.gif[/IMG][/URL]"
+  <img  src="https://img.pokemondb.net/sprites/black-white/anim/shiny/rayquaza.gif[/IMG][/URL]"
        alt="pokemon" /></a>
 </div>
 
